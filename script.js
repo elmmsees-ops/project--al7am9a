@@ -9,10 +9,10 @@ let clickCount = 0;
 
 const messages = [
     "Wash kat bghini al7am9a? 🥺", 
-    "Wash mta2kda? 🤨", 
-    "Mm zidi t2kdi! 😏", 
-    "Safi safi tya9tk 😂", 
-    "3afak 3arfk kat bghini ❤️"
+    "kffxx laa 🤨", 
+    "an9aaajk 😠", 
+    "wal2omiya hadi rah la machi ah", 
+    "3afak 3arfk kat bghini 😝"
 ];
 
 noBtn.addEventListener('click', () => {
