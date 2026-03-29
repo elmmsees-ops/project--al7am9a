@@ -12,7 +12,7 @@ const messages = [
     "kffxx laa 🤨", 
     "an9aaajk 😠", 
     "wal2omiya hadi rah la machi ah", 
-    "3afak 3arfk kat bghini 😝"
+    "3arfk kat bghini 😝"
 ];
 
 noBtn.addEventListener('click', () => {
