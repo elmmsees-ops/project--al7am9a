@@ -1,0 +1,85 @@
+body {
+    background-color: #ffdae0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    overflow-x: hidden;
+}
+
+#welcomeTitle {
+    position: absolute;
+    top: 30px;
+    color: #ff4d6d;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px white;
+    text-align: center;
+    width: 100%;
+}
+
+.card {
+    background: white;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    
+    min-width: 380px;
+    max-width: 90vw;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#gifDisplay {
+    width: 160px;
+    border-radius: 15px;
+}
+
+#questionText {
+    margin: 0;
+    font-size: 1.8rem;
+    color: #444;
+    text-align: center;
+}
+
+.btn-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 22px;
+    border-radius: 18px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+#yesBtn {
+    background-color: #ff4d6d;
+    color: white;
+}
+
+#noBtn {
+    background-color: #f0f0f0;
+    color: #555;
+}
+
+/* هادي زدتها باش ملي نكليكيو على Ah يكبر البوطون بسلاسة */
+button:hover {
+    transform: scale(1.1);
+}
+
+button:active {
+    transform: scale(0.95);
+}
