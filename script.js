@@ -45,7 +45,7 @@ noBtn.addEventListener('click', () => {
 });
 
 yesBtn.addEventListener('click', () => {
-    questionText.innerText = "7ta ana kan bghik al9ba dyaliii❤️✨";
+    questionText.innerText = "tsaaab❤️✨";
     gifDisplay.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l5aTNjcDVibjVsYTRteGk5c2E2ejNkYzdqYTcyeTYzMHpzZXpmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vPzbDN4rBxuvtpSpzF/giphy.gif";
     
     document.querySelector('.btn-group').style.display = 'none';
