@@ -9,11 +9,11 @@ let clickCount = 0;
 
 // الميساجات
 const messages = [
-    "katbghinia?🤔 ", 
+    "Did you like me?🤔 ", 
     "kfx laa 🤨", 
-    "an9aaajk 🫦", 
-    "3arfk b4iti n9ajk al97ba dyali", 
-    "3arfk kat bghini ou katbih 😂"
+    "yadiik lmraa😑", 
+    "yalah 5lssini🤑", 
+    "3arf l ego dyali tay7ak fiya 😎😂"
 ];
 
 // الـ GIFs اللي غايتبدلو مع كل ميساج (تقدر تبدل الروابط يلا بغيتي)
